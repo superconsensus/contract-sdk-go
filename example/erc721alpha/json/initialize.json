@@ -1,0 +1,9 @@
+{
+  "module_name": "native",
+  "contract_name": "erc721",
+  "method_name": "initialize",
+  "args": {
+    "_name": "nftalpha",
+    "_symbol": "go-erc721"
+  }
+}

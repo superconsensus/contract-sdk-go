@@ -1,0 +1,11 @@
+{
+  "module_name": "native",
+  "contract_name": "erc721",
+  "method_name": "invoke",
+  "args": {
+    "action": "batchMint",
+    "_to": "nftalpha",
+    "_tokenIds": "1,2,3",
+    "_uri": "http://boxi.com/666"
+  }
+}

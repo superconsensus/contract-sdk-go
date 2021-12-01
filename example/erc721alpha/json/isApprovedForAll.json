@@ -1,0 +1,10 @@
+{
+  "module_name": "native",
+  "contract_name": "erc721",
+  "method_name": "query",
+  "args": {
+    "action": "isApprovedForAll",
+    "_owner": "nftalpha",
+    "_operator": "go-erc721"
+  }
+}

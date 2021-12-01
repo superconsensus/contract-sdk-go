@@ -1,0 +1,9 @@
+{
+  "module_name": "native",
+  "contract_name": "erc721",
+  "method_name": "query",
+  "args": {
+    "action": "ownerOf",
+    "_tokenId": "1"
+  }
+}
